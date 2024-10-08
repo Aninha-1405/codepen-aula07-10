@@ -1,0 +1,38 @@
+<html>
+   <head>
+      <style>
+ background-image
+
+        p{color:white;
+        background-color:black;
+        text-align:center
+        }
+        
+        
+       </style>
+    </head>  
+ <body>
+   <h1>Filmes e Séries</h1>
+   <p>primeiro paragrafo</p>
+   <p>segundo paragrafo</p>
+   <p>terceiro paragrafo</p>
+   <p>good night<p>
+   
+   
+     </body>
+     </html>
+
+
+body {
+  font-family: Papyrus;
+  background: #0000CD;
+  color:#00FFFF;
+  text-align: center;
+  font-size: 20px
+  
+}
+
+h1 {
+  color: white;
+  font-size: 200px
+}
